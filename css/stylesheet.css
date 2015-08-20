@@ -1,0 +1,14 @@
+#wrapper{
+	width: 430px;
+	height: 430px;
+	overflow: auto;
+	margin: auto;
+}
+
+.square{
+	width:5px;
+	height:5px;
+	border: 1px solid black;
+	float:left;
+	padding: 10px;
+}
